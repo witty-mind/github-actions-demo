@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
         getPrint();
     }
 
+    // printing 0 to 100 numeric numbers
     private void getPrint() {
         for (int i=0;i<=100;i++)
         {
